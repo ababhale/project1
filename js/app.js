@@ -1,0 +1,1 @@
+var appName = "First App";
